@@ -29,7 +29,7 @@ servers:
       - lamp      
   - sites:
       - adminer.local.com
-      - 39dollar.local.com
+      - books.local.com
 
 will need to also install plugins
 vagrant plugin install vagrant-vbguest
@@ -40,8 +40,8 @@ vagrant plugin install vagrant-hostsupdater
 once that is setup, this project should be in the same root folder of vagrant
 
 /home/user/projects/vagrant
-/home/user/projects/39dollar
-(project folder name must be 39dollar)
+/home/user/projects/books
+(project folder name must be books)
 
 
 update your .env file
