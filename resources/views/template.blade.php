@@ -11,7 +11,7 @@
     <meta name="author" content="">
 
 
-    <title>39 Dollar Glasses</title>
+    <title>Books</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -38,7 +38,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">39 Dollar Glasses</a>
+            <a class="navbar-brand" href="#">Books</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
 {{--            <ul class="nav navbar-nav">--}}
