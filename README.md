@@ -57,7 +57,7 @@ and use
 php artisan serve
 
 
-# 39dg-challenge
+# book-challenge
 
 Book Inventory App
 
